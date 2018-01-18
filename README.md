@@ -27,11 +27,13 @@ Comme mentionné dans la partie `Description`, nous pouvons superposer plusieurs
 
 *Star plot multiple [3]*
 
+
 Ce type de diagramme permet, par exemple, dans le cas des ressources humaines de comparer plusieurs personnes suivant leur facultés :
 
 ![](img/spider3.png)
 
 *Exemple de diagramme en étoile dans le cas des ressources humaines [4]*
+
 
 Ou encore de façon plus complexe pour un seul candidat :
 
@@ -39,17 +41,20 @@ Ou encore de façon plus complexe pour un seul candidat :
 
 *Exemple de diagramme en étoile dans le cas des ressources humaines pour un candidat [5]*
 
+
 L'idée d'utiliser ce genre de diagramme pour évaluer les points forts et les points faibles d'un être humain est aussi utilisé dans les jeux vidéos, notamment sportifs comme par exemple le jeu *Football Manager* :
 
 ![](img/fm.jpg)
 
 *Exemple de diagramme en étoile dans le jeu vidéo Football Manager [6]*
 
+
 On peut aussi les utiliser pour comparer les notes de plusieurs élèves dans différentes matières et ainsi pouvoir visualiser facileement les points forts et les points faibles des uns et des autres :
 
 ![](img/analysis-radar-chart.png)
 
 *Exemple de diagramme en étoile pour comparer les notes dans différentes matières [7]*
+
 
 Ces diagrammes sont aussi très utilisés en marketing :
 
@@ -60,6 +65,7 @@ Ces diagrammes sont aussi très utilisés en marketing :
 ## Critique
 
 Comme nous pouvons le voir sur les exemples listés ci-dessus, le *star plot* est donc un outil très utile pour visualiser très facilement les points forts et points faibles d'une entités suivant des variables définies, que ce soit pour visualiser la puissance d'un joueur de football dans un jeu vidéo ou les compétences d'un candidat postulant pour un emploi. En superposant cela, il devient ainsi possible de pouvoir comparer différentes entités, par exemple dans le cas de la comparaison des notes obtenues par des élèves dans différentes matières. Ceci étant dit, on voit rapidement une limite à ce genre de diagramme : le nombre d'entités différentes à superposer est limité, il serait illisible de superposer 40 élèves sur la figure 7 par exemple.
+
 De même le nombre de variables ne peut pas être trop grand pour que cela reste lisible, et il doit être d'au moins 3 par simple limite géométrique.
 Aussi, bien qu'il soit très intéressant pour visualiser ce que l'on souhaite montrer (utilisation de formes géométriques, naturel pour le cerveau humain), il faut néanmoins qu'il y ait une échelle commune pour que cela fonctionne.
 
